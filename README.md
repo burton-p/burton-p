@@ -8,10 +8,12 @@ What I do
 🏗️ Software architecture — enterprise-scale systems, cloud platforms, technical strategy
 🎨 Design-first engineering — years as a graphic/web designer before development, it still shows in how I build
 🛠️ Freelance web development and craft/fabrication on the side, under Be Free Studios
+
 Currently
 💼 Building enterprise solutions at Slalom
 🧪 Building out a personal + brand web presence — website-suite (Next.js, Turborepo, Sanity)
 📍 Based in Chicago, IL
+
 Elsewhere
 🛠️ Be Free Studios: github.com/befreestudios-io
 🌐 Personal site: coming soon## Hi there 👋
