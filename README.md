@@ -1,21 +1,22 @@
-Hi, I'm Burton 👋
+## Hi, I'm Burton
 
-Software Architect at Slalom — 15+ years in the industry, with a background arc that started in art and design before moving into software.
+**Architecture with a designer's eye.** Good systems start with the people who'll use them.
 
-I care about systems that are both well-engineered and well-designed — most of the "architecture vs. design" divide is a false one to me.
+I'm an Architect at [Slalom](https://www.slalom.com) in Chicago. I started in print, graphic and web design before moving into software, and fifteen-plus years later I still build like a designer.
 
-What I do
-🏗️ Software architecture — enterprise-scale systems, cloud platforms, technical strategy
-🎨 Design-first engineering — years as a graphic/web designer before development, it still shows in how I build
-🛠️ Freelance web development and craft/fabrication on the side, under Be Free Studios
+### What I work on
 
-Currently
-💼 Building enterprise solutions at Slalom
-🧪 Building out a personal + brand web presence — website-suite (Next.js, Turborepo, Sanity)
-📍 Based in Chicago, IL
+- **Front-end architecture**: structure that holds up across teams and products
+- **Design systems**: tokens, components and tooling that keep design and engineering in sync
+- **Accessibility**: built in from the start, not bolted on
+- **Agentic architecture**: what I'm digging into now, learning by building
 
-Elsewhere
-🛠️ Be Free Studios: github.com/befreestudios-io
-🌐 Personal site: coming soon## Hi there 👋
+### Currently building
 
-<sub>Chicago, IL</sub>
+- **website-suite**: my personal site and the Be Free Studios site in one monorepo (Next.js, Turborepo, MUI, Sanity), with a shared theme package behind both brands
+
+### Elsewhere
+
+- Personal site: [czerwin.dev](https://czerwin.dev)
+- Be Free Studios, the studio I founded in 2004: [github.com/befreestudios-io](https://github.com/befreestudios-io)
+- [LinkedIn](https://www.linkedin.com/in/be1)
